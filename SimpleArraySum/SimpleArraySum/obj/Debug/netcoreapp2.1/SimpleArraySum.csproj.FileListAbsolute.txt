@@ -1,0 +1,10 @@
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.deps.json
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.runtimeconfig.json
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.runtimeconfig.dev.json
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.dll
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\bin\Debug\netcoreapp2.1\SimpleArraySum.pdb
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.dll
+C:\Users\Elnur\source\repos\SimpleArraySum\SimpleArraySum\obj\Debug\netcoreapp2.1\SimpleArraySum.pdb
